@@ -34,3 +34,7 @@ streamlit run spam_detection_app.py
 - **`spam.csv`:** CSV file containing the SMS Spam Collection dataset.
 - **`spam_detection_app.py`:** The main Streamlit application file.
 - **`README.md`:** Documentation for the project.
+
+
+![image](https://github.com/Deekshith-DL/Spam-Detection-System/assets/124920286/79a80f52-d75b-44f8-83d5-fd472d8a917f)
+
